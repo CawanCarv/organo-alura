@@ -1,4 +1,4 @@
-<h1>PROJETO ORGANO ALURA</h1>
+<h1>Projeto Organo - Alura</h1>
 
 > Status do Projeto: Em desenvolvimento
 
